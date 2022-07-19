@@ -1,5 +1,5 @@
 fastapi
-pycaret
+pycaret.regression
 uvicorn
 pandas
 numpy
