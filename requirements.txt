@@ -9,4 +9,4 @@ uvloop
 pyjwt
 httptools
 scipy>=0.15.1
-scikit-learn
+
