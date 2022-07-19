@@ -1,5 +1,4 @@
 fastapi
-pycaret.regression
 uvicorn
 pandas
 numpy
@@ -9,4 +8,4 @@ uvloop
 pyjwt
 httptools
 scipy>=0.15.1
-
+sklearn
