@@ -1,7 +1,7 @@
 fastapi
 numpy
 pandas
-sklearn==0.23.1
+sklearn==0.23.2
 uvicorn
 pycaret
 gunicorn
