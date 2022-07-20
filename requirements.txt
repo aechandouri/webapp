@@ -1,5 +1,5 @@
 fastapi
 numpy
+pandas
 sklearn
-pycaret
 uvicorn
