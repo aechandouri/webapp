@@ -1,6 +1,5 @@
 fastapi
 pycaret==2.0.0
 fastapi
-Jinja2==2.10.1
 gunicorn
 uvloop
