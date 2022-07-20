@@ -1,4 +1,5 @@
 fastapi
 numpy
-pycaret==2.3.8
+sklearn
+pycaret
 uvicorn
