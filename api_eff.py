@@ -18,5 +18,5 @@ def predict(Pattern_x, Puissance_x, Cact_x, Norme_x, E1, Qprcal, Thm, ThOut1, Th
     predictions = predict_model(model, data=data) 
     return {'prediction': list(predictions['Label'])}
 
-'''if __name__ == '__main__':
-    uvicorn.run(app, host='127.0.0.1', port=8000)'''
+if __name__ == '__main__':
+    uvicorn.run(app, host='127.0.0.1', port=8000)
