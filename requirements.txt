@@ -1,5 +1,5 @@
 fastapi
-pandas
+pandas==1.4.3
 uvicorn
-pycaret
+pycaret==2.3.10
 gunicorn
