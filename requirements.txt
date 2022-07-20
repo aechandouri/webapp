@@ -1,3 +1,4 @@
+scikit-learn==0.23.2
 fastapi
 numpy==1.19.5
 pandas
