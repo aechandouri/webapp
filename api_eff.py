@@ -8,7 +8,7 @@ import uvicorn
 app = FastAPI()
 
 # Load trained Pipeline
-model = load_model('gbr_eff.pkl')
+model = load_model('gbr_eff')
 
 # Define predict function
 @app.post('/predict')
