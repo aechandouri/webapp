@@ -1,5 +1,3 @@
 fastapi
 pycaret==2.0.0
-fastapi
 gunicorn
-uvloop
